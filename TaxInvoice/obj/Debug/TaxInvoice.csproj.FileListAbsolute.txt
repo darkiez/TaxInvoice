@@ -1,0 +1,6 @@
+C:\Users\Octavia Kay\Desktop\interview-test-develop\TaxInvoice\bin\Debug\TaxInvoice.exe.config
+C:\Users\Octavia Kay\Desktop\interview-test-develop\TaxInvoice\bin\Debug\TaxInvoice.exe
+C:\Users\Octavia Kay\Desktop\interview-test-develop\TaxInvoice\bin\Debug\TaxInvoice.pdb
+C:\Users\Octavia Kay\Desktop\interview-test-develop\TaxInvoice\obj\Debug\TaxInvoice.csprojResolveAssemblyReference.cache
+C:\Users\Octavia Kay\Desktop\interview-test-develop\TaxInvoice\obj\Debug\TaxInvoice.exe
+C:\Users\Octavia Kay\Desktop\interview-test-develop\TaxInvoice\obj\Debug\TaxInvoice.pdb
